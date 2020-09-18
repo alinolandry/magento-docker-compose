@@ -26,7 +26,7 @@
 `docker ps`
 
 - If you want sample datas <br />
-`docker exec -it code_magento_1 install-sampledata`
+`docker exec -it <container_name> install-sampledata`
 
 ## Setup Magento
 - Go to the browser and type the following:<br />
