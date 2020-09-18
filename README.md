@@ -25,6 +25,9 @@
 8. View the current containers<br />
 `docker ps`
 
+3- iIf you want sample datas <br />
+`docker exec -it code_magento_1 install-sampledata`
+
 ## Setup Magento
 - Go to the browser and type the following:<br />
 `localhost:8002/setup`
@@ -54,6 +57,7 @@ Your Store Address        -> http://localhost:8002/ (already predefined)<br />
 Magento Admin Address     -> http://localhost:8002/(adminlink) (also predefined)<br />
   
 click 'next'<br />
+
 
 4. Customize your store
 
