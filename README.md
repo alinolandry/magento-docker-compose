@@ -25,6 +25,9 @@
 8. View the current containers<br />
 `docker ps`
 
+- If you want sample datas <br />
+`docker exec -it code_magento_1 install-sampledata`
+
 ## Setup Magento
 - Go to the browser and type the following:<br />
 `localhost:8002/setup`
